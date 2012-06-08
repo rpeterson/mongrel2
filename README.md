@@ -43,6 +43,6 @@ Go to [http://mongrel2.org](http://mongrel2.org) for more information.
 
 Build Status
 ------------
-![Build Status](https://secure.travis-ci.org/rpeterson/mongrel2.png?branch=master)](http://travis-ci.org/rpeterson/mongrel2)
+![Build Status](https://secure.travis-ci.org/rpeterson/mongrel2.png?branch=master)
 
 
